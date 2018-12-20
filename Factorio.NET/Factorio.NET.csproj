@@ -81,7 +81,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="lua52.dll">
+    <None Include="x64\lua52.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="x86\lua52.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="msvcp120.dll">
