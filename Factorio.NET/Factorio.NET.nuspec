@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Factorio.NET</id>
+    <version>1.0.0</version>
+    <title>Factorio.NET</title>
+    <authors>Samuel Schwab</authors>
+    <owners>sam2schwab</owners>
+    <projectUrl>https://github.com/sam2schwab/Factorio.NET</projectUrl>
+    <iconUrl>http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/factorio-icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# wrapper for the Factorio Lua prototype definitions data</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Factorio Prototype Wrapper</tags>
+  </metadata>
+  <files>
+    <file src="..\README.md"/>
+  </files>
+</package>
