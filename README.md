@@ -14,3 +14,12 @@ This project is a WIP, as of now only recipes are fully parsed
 ## Usage
 
 This project was created to build a C# tool similar to the factoratio tool available on https://factorio.rotol.me/
+
+## Libraries used
+
+- [Json.NET](https://newtonsoft.com/json).
+- [Nlua](http://nlua.org/).
+
+## License
+
+This project is under the [MIT license](LICENSE).
